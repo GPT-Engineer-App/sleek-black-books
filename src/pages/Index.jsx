@@ -142,12 +142,12 @@ const AboutUs = () => (
       </Text>
       <HStack spacing={4}>
         <Box textAlign="center">
-          <Image src="https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwbWVtYmVyJTIwMXxlbnwwfHx8fDE3MTY0MjMwNzd8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Team Member 1" boxSize="150px" borderRadius="full" />
+          <Image src="https://images.unsplash.com/photo-1529655683826-aba9b3e77383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjByZWFkaW5nJTIwYm9va3xlbnwwfHx8fDE3MTY0MjMwNzd8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Team Member 1" boxSize="150px" borderRadius="full" />
           <Text>John Doe</Text>
           <Text>Founder & CEO</Text>
         </Box>
         <Box textAlign="center">
-          <Image src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwbWVtYmVyJTIwMnxlbnwwfHx8fDE3MTY0MjMwNzd8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Team Member 2" boxSize="150px" borderRadius="full" />
+          <Image src="https://images.unsplash.com/photo-1517841905240-472988babdf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjByZWFkaW5nJTIwYm9va3xlbnwwfHx8fDE3MTY0MjMwNzd8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Team Member 2" boxSize="150px" borderRadius="full" />
           <Text>Jane Smith</Text>
           <Text>Lead Designer</Text>
         </Box>
