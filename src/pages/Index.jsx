@@ -50,11 +50,8 @@ const Header = () => (
 
 const magicImage = "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtYWdpY3xlbnwwfHx8fDE3MTY0MjMwNzd8MA&ixlib=rb-4.0.3&q=80&w=1080";
 
-import Sparkles from "../components/Sparkles.jsx";
-
 const Homepage = () => (
-  <Box as="section" py={8} position="relative">
-    <Sparkles />
+  <Box as="section" py={8}>
     <VStack spacing={4} textAlign="center">
       <Image src={magicImage} alt="Magic" boxSize="300px" />
       <Text fontSize="3xl" fontWeight="bold">
